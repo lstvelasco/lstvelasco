@@ -74,8 +74,13 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/lstvelasco/lstvelasco/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lstvelasco/lstvelasco/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lstvelasco/lstvelasco/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lstvelasco/lstvelasco/output/snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
