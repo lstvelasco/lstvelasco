@@ -54,6 +54,15 @@
 
 ---
 
+## 🏆 Top Contributed Repositories
+<p align="center">
+  <a href="https://github.com/lstvelasco">
+    <img src="https://github-contributor-stats.vercel.app/api?username=lstvelasco&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="lstvelasco's GitHub Contributor Stats" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
